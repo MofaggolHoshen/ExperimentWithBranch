@@ -3,3 +3,10 @@
 ################################################################################
 
 /IotGateway/IotGateway/bin/Debug/netcoreapp2.0
+/IotGateway/.vs/IotGateway/v15
+/IotGateway/IotGateway/obj
+/HelloWorld/HelloWorld/obj/Debug
+/.vs
+/HelloWorld/.vs/HelloWorld/v15/Server/sqlite3
+/HelloWorld/.vs/HelloWorld/v15
+/HelloWorld/HelloWorld/obj/Release
